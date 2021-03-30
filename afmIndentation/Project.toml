@@ -1,0 +1,4 @@
+name = "afmIndentation"
+uuid = "d8502285-ee5c-40db-918d-2ba2e944bdeb"
+authors = ["August Brandberg <augustbberg@gmail.com>"]
+version = "0.1.0"
